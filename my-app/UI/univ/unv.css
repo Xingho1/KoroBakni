@@ -1,0 +1,7 @@
+.active{
+    color:var(--color-pri);
+    background-color: var(--color-sec);
+}
+.inactive:hover{
+    filter: brightness(95%);
+}

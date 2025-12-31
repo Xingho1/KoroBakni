@@ -7,8 +7,8 @@ export default function Home() {
   return (
     <div className="bg-amber-50 text-black">
       <Nav/>
-      {/* <Main/> */}
-      <Dev/>
+      <Main/>
+      {/* <Dev/> */}
       <Footer/>
     </div>
   );
